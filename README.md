@@ -116,7 +116,7 @@ Overall, a pretty low-stakes way to get hands-on with storage, orchestration, an
 
 ## Resources
 
-- Dataset: Superstore Dataset — Kaggle
+- Dataset: Superstore Dataset — Kaggle(https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - Assignment reference: provided via Celebal Technologies LMS (SharePoint)
 
 ## 📁 Repository Structure (Suggested)
