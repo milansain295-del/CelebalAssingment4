@@ -114,10 +114,14 @@ A few things that clicked for me by the end of this:
 
 Overall, a pretty low-stakes way to get hands-on with storage, orchestration, and security in Azure, and actually see how those three pieces depend on each other instead of just reading that they do.
 
-## Resources
+---
 
-- Dataset: Superstore Dataset — Kaggle(https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-- Assignment reference: provided via Celebal Technologies LMS (SharePoint)
+## 📚 Resources Used
+
+- Dataset: [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- Assignment Reference Document: Provided via Celebal Technologies LMS (SharePoint)
+
+---
 
 ## 📁 Repository Structure (Suggested)
 
