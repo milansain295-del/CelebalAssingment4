@@ -119,9 +119,9 @@ Overall, a pretty low-stakes way to get hands-on with storage, orchestration, an
 - Dataset: Superstore Dataset — Kaggle
 - Assignment reference: provided via Celebal Technologies LMS (SharePoint)
 
-## Suggested repo structure
+## 📁 Repository Structure (Suggested)
 
-
+```
 Week 4/
 ├── README.md
 ├── Resource Group.png
@@ -137,4 +137,4 @@ Week 4/
 ├── IAM Role assignment 2.png
 ├── IAM Role assignment 3.png
 └── Mini Project Successful.png
-
+```
